@@ -1,0 +1,10 @@
+A balloon slowly inflates at the center of the screen, gradually becoming larger frame by frame.
+A wooden ball travels across a sleek white tabletop.
+A viscous, translucent fluid strip slowly stretches and spreads, gradually transforming from a thin elongated line into a smooth, filled rectangle.
+A realistic pendulum with a spherical bob swinging from a fixed pivot point, experiencing damping. The pendulum swings back and forth with gradually decreasing amplitude, slowing down over time.
+A wooden ruler spinning smoothly around its center in mid-air, viewed from above, with subtle motion blur and clear visibility of its elongated shape. Continuous clockwise rotation.
+A small toy car sliding down a smooth inclined plane under gravity, starting with an initial push. The car is oriented along the slope, and the motion is smooth and continuous.
+A city bus driving on a flat road, starting slowly and then gradually speeding up. The bus is viewed from the side, moving smoothly from left to right across the frame, with clear acceleration. Background stays static, only the bus shows motion
+A billiard ball rolling on a green pool table, filmed from the side view. The ball starts moving quickly and then gradually slows down due to friction until it comes to a stop. The camera is fixed, background stays static, only the ball shows motion.
+A small planet (Earth) moves smoothly around a bright star (Sun), seen from above. The planet travels along a circular path at a constant speed, without showing any lines or trails. The Sun remains stationary in the center.
+A single apple is thrown at an angle with an initial speed. The camera captures the motion from the side, showing the apple rising, reaching its peak, and then descending under gravity.
